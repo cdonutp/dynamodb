@@ -1,7 +1,9 @@
 # DynamoDB
 
 Can use on Amazon AWS
+
 Can use on DynamoDB Local
+
 Can use on DynamoDB Remote Local
 
 Dynamon, MacOS Development GUI IDE Tool
